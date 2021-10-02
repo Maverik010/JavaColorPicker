@@ -1,6 +1,6 @@
-#JAVA COLOR PICKER
+# JAVA COLOR PICKER
 
-###Prosty program graficzny napisany w javie do pickowania kolorów.
+### Prosty program graficzny napisany w javie do pickowania kolorów.
     - wykorzystuje on Swinga (Jframe)
     - oraz kompnenty z biblioteki awt
 
